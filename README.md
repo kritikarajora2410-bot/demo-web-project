@@ -1,2 +1,6 @@
 # demo-web-project
-learning Git &amp; GitHub
+This repository contains basic programs 
+
+name: Kritika Singh 
+college : ABES engineering college
+class : CSE-20
