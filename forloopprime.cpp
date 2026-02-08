@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main() {
-    //check if a no. is prime or not
+    //check if a no. is prime or not..
      int n = 7;
      bool isPrime = true;
       
@@ -19,4 +19,5 @@ int main() {
         cout<<"non prime no.\n";
      }
      return 0;
+
     }
